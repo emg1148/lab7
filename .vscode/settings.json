@@ -1,0 +1,15 @@
+{
+  "idf.currentSetup": "C:\\Users\\erica\\esp\\v5.5.2\\esp-idf",
+  "idf.openOcdConfigs": [
+    "board/esp32p4-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32p4"
+  },
+  "clangd.path": "C:\\Users\\erica\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\esp\\client-sdk-esp32-main\\components\\livekit\\examples\\minimal_video\\build"
+  ]
+}
