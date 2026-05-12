@@ -7,6 +7,9 @@
 
 #include "livekit.h"
 
+#define WIFI_SSID     "iPhone (59)"
+#define WIFI_PASSWORD "Erica123"
+
 void app_main(void)
 {
     esp_log_level_set("*", ESP_LOG_INFO);

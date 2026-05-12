@@ -11,5 +11,7 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=c:\\esp\\client-sdk-esp32-main\\components\\livekit\\examples\\minimal_video\\build"
-  ]
+  ],
+  "idf.flashType": "UART",
+  "idf.portWin": "COM5"
 }
