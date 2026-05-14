@@ -39,7 +39,7 @@ void join_room()
                 .codec = LIVEKIT_VIDEO_CODEC_H264,
                 .width = 1280,
                 .height = 960,
-                .fps = 15
+                .fps = 10
             },
             .capturer = media_get_capturer()
         },
